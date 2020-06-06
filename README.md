@@ -14,3 +14,6 @@ See [System requirement](https://code.visualstudio.com/docs/remote/containers#_s
 1. Start VS Code, run the **Remote-Containers: Open Folder in Container** to open this repository.
 1. It will build a Docker container. It may take a while.
 1. Edit python scripts at the root level of this repository. Press **F5** to run & debug. Paste problem input into TERMINAL.
+
+# Link
+- [AtCoder / Rules](https://atcoder.jp/contests/abs/rules)
